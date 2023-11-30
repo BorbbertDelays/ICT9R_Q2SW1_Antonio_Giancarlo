@@ -1,6 +1,6 @@
 # ICT9R_Q2SW1_Antonio_Giancarlo
 
-This is the Github repository for my ICT Seatwork 1 :)
+This is the GitHub repository for my ICT Seatwork 1 :)
 
 ## References
 
